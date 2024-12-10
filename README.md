@@ -697,7 +697,7 @@ The readinessProbe sub-section determines whether the container is ready to rece
 ## Volumes section
 
 The volumes section manages the configuration of volumes and mounts for each deployment.
-
+ 
 #### Volumes Mounts
 
 The volumeMounts specify the mounting points for the volumes in the container.
